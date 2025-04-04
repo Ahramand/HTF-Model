@@ -1,0 +1,10 @@
+
+---
+
+### 📦 4. `requirements.txt`  
+Python dependencies needed to run the simulations.
+
+```text
+numpy
+matplotlib
+scipy
